@@ -1,0 +1,24 @@
+{
+  "name": "expressstaticpersonal-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malhotra-parul/google-cloud-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malhotra-parul/google-cloud-projects/issues"
+  },
+  "homepage": "https://github.com/malhotra-parul/google-cloud-projects#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  }
+}
